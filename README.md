@@ -29,13 +29,13 @@ It will be all Rust.
 
 ### Web app
 
-plan-life-web
-
+`plan-life-web`
 
 ### Backend
 
-tbd
+`service`
 
+- database (Postgres)
 
 ### Reader
 
